@@ -22,7 +22,7 @@ const structuredData = {
       name: SITE_AUTHOR,
       url: SITE_URL,
       image: `${SITE_URL}/me.jpeg`,
-      jobTitle: "Backend Engineer",
+      jobTitle: "Desarrollador de software fullstack",
       address: { "@type": "PostalAddress", addressLocality: "Almería", addressCountry: "ES" },
       sameAs: [
         GITHUB_PROFILE_URL,

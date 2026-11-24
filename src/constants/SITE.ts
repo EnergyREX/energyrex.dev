@@ -1,7 +1,7 @@
 export const SITE_URL = "https://energyrex.dev";
 export const SITE_AUTHOR = "Francisco Javier Martín Fernández";
 export const SITE_NAME = "Francisco Javier Martín";
-export const SITE_TITLE = `${SITE_AUTHOR} — Backend Engineer`;
+export const SITE_TITLE = `${SITE_AUTHOR} — Desarrollador de software fullstack`;
 export const SITE_DESCRIPTION =
   "Portfolio de Francisco Javier Martín Fernández (EnergyREX): desarrollo de software, proyectos open-source y notas sobre arquitectura, DDD e IA.";
 

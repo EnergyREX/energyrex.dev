@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { SITE_AUTHOR } from "@/constants/SITE";
 
-export const alt = `${SITE_AUTHOR}, backend engineer`;
+export const alt = `${SITE_AUTHOR}, desarrollador de software fullstack`;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -24,7 +24,7 @@ export default function Image() {
       <div style={{ fontSize: 88, fontWeight: 700, lineHeight: 1.05 }}>Francisco Javier</div>
       <div style={{ fontSize: 88, fontWeight: 700, lineHeight: 1.05 }}>Martín Fernández</div>
       <div style={{ marginTop: 32, fontSize: 40, color: "#a8a29a" }}>
-        Backend Engineer
+        Desarrollador de software fullstack
       </div>
     </div>,
     size,
