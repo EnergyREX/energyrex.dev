@@ -18,7 +18,7 @@ export const JOBS: Job[] = [
     company: "RETELIA",
     color: "#95c123",
     logo: "/retelia.jpg",
-    role: "Backend Engineer",
+    role: "Software Engineer",
     period: "Septiembre 2025 - Presente",
     bullets: [
       "Desarrollo backend de una plataforma de e-commerce en producción, con arquitectura hexagonal y DDD.",
